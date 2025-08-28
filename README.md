@@ -1,4 +1,4 @@
-<img width="213" height="501" alt="Screenshot 2025-08-26 202649" src="https://github.com/user-attachments/assets/8f1d4687-5f45-4c1c-8ce4-c9dd5362f9af" /># plant-shopping-websites
+
 Green is the prime color of the world, and that from which its loveliness arises.
 # 🌿 Verdure — Plant Shopping Website
 
@@ -27,6 +27,12 @@ Verdure is a beautifully designed online store for plant lovers. Built with a fo
 
 ## 📸 Screenshots
 Coming soon...
+
+<img width="236" height="501" alt="Screenshot 2025-08-26 202711" src="https://github.com/user-attachments/assets/6ed00607-6c4c-466a-a5f9-ff80a80a3b30" />
+<img width="213" height="501" alt="Screenshot 2025-08-26 202649" src="https://github.com/user-attachments/assets/daf8737f-eebe-4a36-89bb-154db2140ff5" />
+<img width="238" height="511" alt="Screenshot 2025-08-26 202801" src="https://github.com/user-attachments/assets/20abb8f0-b0b3-490a-b800-e03d360a12cc" />
+<img width="235" height="508" alt="Screenshot 2025-08-26 202842" src="https://github.com/user-attachments/assets/78c9f232-85fc-4374-b167-6b72f4a7b67e" />
+<img width="230" height="492" alt="Screenshot 2025-08-26 202851" src="https://github.com/user-attachments/assets/19653208-a2f6-4dd9-bd25-05244c8fc8ee" />
 
 
 Feel free to fork, contribute, or suggest improvements!
